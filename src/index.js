@@ -5,7 +5,7 @@ var number = Math.floor(Math.random() * max);
 ReactDom.render(
   <div>
     {" "}
-    <h1>Why Lufy is Joyboy</h1>{" "}
+    <h1 className="heading">Why Lufy is Joyboy</h1>{" "}
     <ul>
       {" "}
       <li>Gomu Gomu no Fruit is a Zoan Fruit</li>{" "}
