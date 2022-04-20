@@ -8,11 +8,22 @@ ReactDom.render(
     <h1 className="heading" contentEditable="true" spellCheck="false">
       Why Luffy is Joyboy?
     </h1>{" "}
-    <ul>
-      {" "}
-      <li>Gomu Gomu no Fruit is a Zoan Fruit</li>{" "}
-      <li>Awakining looks like NIKA</li> <li>Chapter 1009</li>{" "}
-    </ul>{" "}
+    <div>
+      <img
+        src={
+          "https://www.opfanpage.com/wp-content/uploads/2022/01/maxresdefault-9-1024x576.jpg"
+        }
+        alt="Gomu Gomu no Mi"
+      />
+      <img
+        src="https://static2.srcdn.com/wordpress/wp-content/uploads/2022/03/one-piece-1044-4.jpg?q=50&fit=crop&w=963&h=705&dpr=1.5"
+        alt="Chapter 1044"
+      />
+      <img
+        src="https://static3.srcdn.com/wordpress/wp-content/uploads/2022/03/one-piece-1044-131.jpg?q=50&fit=crop&w=740&h=534&dpr=1.5"
+        alt="Zoan Fruit"
+      />
+    </div>
     <p>Waht is your devil fruit?</p>{" "}
     <ul>
       {" "}

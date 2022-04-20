@@ -1,6 +1,7 @@
 .heading {
   color: violet;
 }
-.background {
-  color: yellow;
+img {
+  width: 100px;
+  height: 100px;
 }
